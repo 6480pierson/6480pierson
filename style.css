@@ -1,0 +1,72 @@
+li a {
+  display: inline-block;
+  color: white;
+  text-align:center;
+  padding: 22px 24px;
+  text-decoration: none;
+}
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.active {
+  background-color: red;
+}
+li a:hover {
+  background-color: #8B0000;
+}
+li {
+  float: left;
+  font-family: Arial;
+}
+
+.center {
+  display: grid;
+  grid-template-columns: 10% 60% 30%;
+  font-size: 150%;
+  margin-top: 30px;
+
+}
+
+.TBP {
+  background-image: url(https://cdn.discordapp.com/attachments/694585620516962369/730039937273036870/TBP_logo_2-1.png_1.png);
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+body {
+  background-image:
+}
+
+.bruh {
+  color: white;
+  font-weight:  bolder;
+  position:
+}
+
+.background9 {
+  background-image: url(https://images.unsplash.com/photo-1548373564-99ab96ed0dc2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-attachment: scroll;
+}
+
+
+.centered {
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  font-size: 150%;
+  margin-top: 30px;
+}
+
+img {
+  width: 300px;
+  length: Auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
