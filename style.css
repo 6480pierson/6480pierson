@@ -1,7 +1,6 @@
 li a {
   display: inline-block;
   color: white;
-  text-align:center;
   padding: 22px 24px;
   text-decoration: none;
 }
@@ -44,63 +43,65 @@ li {
   font-weight:  bolder;
 }
 
+.about {
+  font-size: 24px;
+}
+
 .textindex {
   text-align: center;
-  margin:auto;
-  padding: 200px 0;
+  padding: 140px 0;
 }
 
 .background9 {
   background-image: url(https://images.unsplash.com/photo-1551272744-dc08dd02f2c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjQzMzEwfQ&auto=format&fit=crop&w=1349&q=80);
   background-attachment: scroll;
   background-size: cover;
-
 }
 
 .background8 {
-  background: url(https://images.unsplash.com/photo-1551098955-f124915c1ff3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+  background-image: url(https://images.unsplash.com/photo-1551098955-f124915c1ff3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background7 {
-  background: url(https://images.unsplash.com/photo-1552261597-952b64377d6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=1350&q=80);
+  background-image: url(https://images.unsplash.com/photo-1552261597-952b64377d6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=1350&q=80);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background6 {
-  background: url(https://wallpaperarc.com/wp-content/uploads/2020/04/Valorant-Wide-Quad-HD-Wallpaper-2560x1440-19-1280x720.jpg);
+  background-image: url(https://wallpaperarc.com/wp-content/uploads/2020/04/Valorant-Wide-Quad-HD-Wallpaper-2560x1440-19-1280x720.jpg);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background5 {
-  background: url(https://images4.alphacoders.com/576/thumb-1920-576758.jpg);
+  background-image: url(https://images4.alphacoders.com/576/thumb-1920-576758.jpg);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background4 {
-  background: url(https://wallpapermemory.com/uploads/556/minecraft-background-hd-1080p-385600.jpg);
+  background-image: url(https://wallpapermemory.com/uploads/556/minecraft-background-hd-1080p-385600.jpg);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background3 {
-  background: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/291550/a5a73ad365a062637118acee562c0f453b024497.jpg);
+  background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/291550/a5a73ad365a062637118acee562c0f453b024497.jpg);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background2 {
-  background: url(https://i.imgur.com/xJbVm81.png);
+  background-image: url(https://i.imgur.com/xJbVm81.png);
   background-size: cover;
   background-attachment: scroll;
 }
 
 .background1 {
-  background: url(https://images.wallpapersden.com/image/download/grand-theft-auto-grand-theft-auto-online-gta-5_12053_1920x1080.jpg);
+  background-image: url(https://images.wallpapersden.com/image/download/grand-theft-auto-grand-theft-auto-online-gta-5_12053_1920x1080.jpg);
   background-size: cover;
   background-attachment: scroll;
 }
